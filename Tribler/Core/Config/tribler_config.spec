@@ -35,6 +35,7 @@ dummy_wallets_enabled = boolean(default=False)
 
 [chant]
 enabled = boolean(default=True)
+manager_enabled = boolean(default=True)
 channel_edit = boolean(default=False)
 channels_dir = string(default='channels')
 
